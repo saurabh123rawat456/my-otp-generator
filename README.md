@@ -3,7 +3,7 @@
 🚀 A simple yet stylish **OTP Generator** that creates a **random 5-digit OTP** with a sleek UI and smooth animations!  
 Perfect for learning **JavaScript, CSS transitions, and responsive design**.  
 
-![OTP Generator Preview](screenshot.png)
+![OTP Generator Preview](Screenshot.png)
 
 ---
 
