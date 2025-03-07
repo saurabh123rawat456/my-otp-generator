@@ -21,4 +21,10 @@ Perfect for learning **JavaScript, CSS transitions, and responsive design**.
 
 - **HTML** 🌐 (Structure)  
 - **CSS** 🎨 (Styling & Animations)  
-- **JavaScript** ⚡ (Functionality)  
+- **JavaScript** ⚡ (Functionality)
+
+---
+
+## 🎥 Live Demo  
+
+👉 [**Try it Live!**](https://saurabh123rawat456.github.io/my-otp-generator/)
